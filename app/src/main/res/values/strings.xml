@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Луиза Хэй 101</string>
+    <string name="main_question">Луиза Хэй\n
+        101 мысль\n
+        дающая силу</string>
+    <string name="yes">Включить</string>
+    <string name="no">Выключить</string>
+    <string name="close">Закрыть</string>
+    <string name="share">Поделиться</string>
+    <string name="header_text">Луиза Хей 101 мысль дающая силу</string>
+    <string name="more">Ещё</string>
+    <string-array name="reasons_list">
+        <item>МОЕ ИСЦЕЛЕНИЕ УЖЕ ПРОИСХОДИТ\n
+            Моя готовность прощать начинает процесс моего исцеления. Я позволяю любви моего сердца омывать, очищать и исцелять каждую частицу моего тела. Я знаю, что достойна (достоин) исцеления. </item>
+        <item>Я ГОТОВА (ГОТОВ) ПРОЩАТЬ\n
+            Прощение себя и других людей освобождает меня от прошлого. Прощение – решение почти всех проблем. Прощение – мой дар себе. Я прощаю и освобождаюсь.</item>
+        <item>У МЕНЯ ИДЕАЛЬНОЕ ЖИЗНЕННОЕ ПРОСТРАНСТВО\n
+            Я вижу себя, живущей (живущим) в чудесном доме. Он осуществляет все мои желания и удовлетворяет все мои потребности. Он прекрасно расположен и стоит столько, сколько я легко могу себе позволить заплатить. </item>
+    </string-array>
+    <string-array name="bg_list">
+        <item>bg1_windmill_3901896_960_720</item>
+        <item>bg2_rotation_light_very_vivid_colours_fragment_frame_pattern_fabric_25907</item>
+        <item>bg3_light_blur_frame_fragment_reading_books_wallpapers_104480</item>
+        <item>bg4_foto_tsveti_dlja_ramki</item>
+        <item>bg5_f456d61db3230f86130983d1f2030011</item>
+    </string-array>
+</resources>
